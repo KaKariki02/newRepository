@@ -1,5 +1,13 @@
 hallo
 hey
+<<<<<<< HEAD
 gaaf hij doet het!
 nog een nieuwe regel
 hij blijft maar doorgaan!
+=======
+<<<<<<< HEAD
+lekker hoor
+=======
+gaaf hij doet het!
+>>>>>>> 59823e7a0f3c780da3d664275b075d2c3db02151
+>>>>>>> fc5d68963bd1c1709fadef6678938e0e3f407d74
